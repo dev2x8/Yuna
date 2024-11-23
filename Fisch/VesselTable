@@ -166,6 +166,20 @@ local VesselLib = {
         StopEfficiency = 3, 
         Bobbing = 6, 
         BobbingSpeed = 3
+    }, 
+    ["Coral Cruiser Boat"] = {
+        Price = -1, 
+        Dedscriptipon = "Fischer Special Special!", 
+        Icon = "rbxassetid://71002238163754", 
+        ObtainText = "Obtain on Starter Pack", 
+        Level = 0, 
+        MaxSpeed = 85, 
+        Accel = 0.25, 
+        TurningSpeed = 0.5, 
+        BackwardsEfficiency = 1, 
+        StopEfficiency = 1.3, 
+        Bobbing = 2.5, 
+        BobbingSpeed = 1
     }
 }
 
